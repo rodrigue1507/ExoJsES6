@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../es2015/src/module/moduleA.js"],"names":["doSomething"],"mappings":";;;;;kBAAwBA,W;AAAT,SAASA,WAAT,GAAuB,CAErC","file":"moduleA.js","sourceRoot":"es2015","sourcesContent":["export default function doSomething() {\r\n   \r\n}\r\n"]}
